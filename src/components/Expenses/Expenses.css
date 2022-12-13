@@ -1,0 +1,17 @@
+.expenses {
+  padding: 10px;
+  background-color: rgb(31, 31, 31);
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+ 
+}
+p{
+  
+  font-size: 23px;
+  justify-content: center;
+  padding: 10px;
+}
+li{
+  list-style-type: none;
+}
