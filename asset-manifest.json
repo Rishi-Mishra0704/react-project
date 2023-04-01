@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rishi-Mishra0704/react-project/static/css/main.19914034.css",
+    "main.js": "/Rishi-Mishra0704/react-project/static/js/main.e508f4e7.js",
+    "index.html": "/Rishi-Mishra0704/react-project/index.html",
+    "main.19914034.css.map": "/Rishi-Mishra0704/react-project/static/css/main.19914034.css.map",
+    "main.e508f4e7.js.map": "/Rishi-Mishra0704/react-project/static/js/main.e508f4e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19914034.css",
+    "static/js/main.e508f4e7.js"
+  ]
+}
